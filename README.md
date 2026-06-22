@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi, I'm Mahdy 👋
 
-<!--
-**mahdy206/mahdy206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer passionate about Artificial Intelligence, Data Analytics, and Backend Development.
 
-Here are some ideas to get you started:
+About Me
+Computer Science Student
+Building AI, Data, and Software Solutions
+Experienced with Python, Java, SQL Server, and Power BI
+Interested in Machine Learning, Data Engineering, and Backend Systems
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages
+
+Python
+Java
+SQL
+
+AI & Data
+
+Pandas
+NumPy
+Scikit-Learn
+TensorFlow
+Power BI
+Power Query
+DAX
+
+Backend & Databases
+
+SQL Server
+Database Design
+REST APIs
+Featured Projects
+AI & Machine Learning
+Plant Disease Detection using MobileNet & TensorFlow Lite
+Fashion Recommendation Chatbot using CNN & RNN
+Data Analytics
+E-commerce Data Analysis using PCA and K-Means Clustering
+Sales Performance Dashboard using Power BI
+Software Engineering
+Student Management System
+SQL Server Security System
+
+## Contact
+
+* LinkedIn: [www.linkedin.com/in/mohamedmahdy206]
+* Email: [mmahdy935@gmail.com]
+* mobile: [01122846101]
